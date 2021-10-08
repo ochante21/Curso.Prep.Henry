@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+img{
+    height: 400px;
+    width: 500px;
+}
+#thirDiv{
+    height: 800px;
+    width: 600px;
+    background: yellow;
+    padding: 50px;
+    border: thick double #32a1ce;
+}
+.divClass{
+    font-size: 18px;
+}
+#spanId{
+    margin: 50px;
+}
+/*#pizza{
+    height: 500px;
+    width: 600px;
+}*/
